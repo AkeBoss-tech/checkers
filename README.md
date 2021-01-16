@@ -16,8 +16,8 @@ Pieces.py
 In order to run the game, you must run main.py.
 You should probably go into the help menu before you start just to read how the game works.
 
-## Dependencies
-The program requires multiple dependencies
+## Libraries
+The program requires multiple libraries
 ~~~
 os, sys, pygame, pickle, datetime, copy, random, pathlib, time
 ~~~
@@ -25,7 +25,7 @@ os, sys, pygame, pickle, datetime, copy, random, pathlib, time
 You can install them by running
 
 ~~~
-pip install dependency_you_need_to_install
+pip install library_you_need_to_install
 ~~~
 
 ## Playing the Game
